@@ -6,7 +6,8 @@ Being able to login is great. But controlling access at a more granular level is
 
 ## UML for This Project
 
-![WRRC for auth-api](auth-api.png)
+![auth-api](https://github.com/abshir206/auth-api/assets/122309776/1343055e-7e47-47ed-89cf-bd3e1cc6ab68)
+
 
 ## [Render](https://api-with-auth-3twa.onrender.com)
 
